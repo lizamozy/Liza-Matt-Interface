@@ -1,0 +1,10 @@
+[system]
+description = "Simplest system with both capability manager and scheduler, from unit_schedcomp.sh"
+
+[[functions]]
+name = "func"
+arguments = ["string"]
+return = "type"
+
+
+
